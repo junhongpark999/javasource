@@ -12,4 +12,5 @@ public class Calculator {
 	
 	private int num5;
 	private int num6;
+	
 }
